@@ -58,6 +58,7 @@ Penjelasan: jadi disini kita buat while true sebagai menu utama kita dalam perul
 ## Penjelasan Output
 
 **1. Jika pilih 1 saat belum terdapat data**
+
 <img width="260" height="91" alt="image" src="https://github.com/user-attachments/assets/2f1cd2cc-e097-4937-a06b-a94ca2c3ed6b" />
 
 **2. Pilihan 2 menambahkan data**
