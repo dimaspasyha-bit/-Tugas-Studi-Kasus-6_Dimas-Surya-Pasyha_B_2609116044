@@ -1,0 +1,14 @@
+[
+    {
+        "kode": "a01",
+        "nama": "Indomie",
+        "stok": 100,
+        "harga": 3500
+    },
+    {
+        "kode": "a02",
+        "nama": "Kanzler",
+        "stok": 109,
+        "harga": 9000
+    }
+]
